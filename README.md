@@ -1,7 +1,8 @@
 # EESM5900V: Deep Learning for Vision and Multimodal Data @ HKUST
 
-## Assignment 1: MNIST
-Different models will be implemented for classifying digits using MNIST dataset
+### Assignments
+**Assignment 1: MNIST**  
+Different models will be implemented for classifying digits using MNIST dataset  
 *More will be updated
 
 ### Course Information
