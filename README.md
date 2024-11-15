@@ -3,7 +3,12 @@
 ### Assignments
 **Assignment 1: MNIST**  
 Different models will be implemented for classifying digits using MNIST dataset  
-*More will be updated
+
+**Assignment 2: Transformers & GNN**  
+Theoretical questions on Attention & Transformers, Graph Neural Networks
+
+**Assignment 3: GAN Implementations**  
+DCGAN, CycleGAN implementations
 
 ### Course Information
 - **School:** The Hong Kong University of Science and Technology (HKUST)
