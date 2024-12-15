@@ -18,4 +18,4 @@ DCGAN, CycleGAN implementations
 - **Semester:** 2024/25 Fall
 
 ### Assignment Overview
-This repository contains the submission files for Assignments of the course EESM5900V, it's only for reference & learning purposes
+This repository contains the submission files for Assignments of the course EESM5900V, it's only for reference & learning purposes (Please do not copy!)
