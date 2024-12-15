@@ -10,6 +10,11 @@ Theoretical questions on Attention & Transformers, Graph Neural Networks
 **Assignment 3: GAN Implementations**  
 DCGAN, CycleGAN implementations
 
+### Notes
+- Backpropagation (BP)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+
 ### Course Information
 - **School:** The Hong Kong University of Science and Technology (HKUST)
 - **Course Code:** EESM5900V
@@ -18,4 +23,4 @@ DCGAN, CycleGAN implementations
 - **Semester:** 2024/25 Fall
 
 ### Assignment Overview
-This repository contains the submission files for Assignments of the course EESM5900V, it's only for reference & learning purposes
+This repository contains the submission files for Assignments of the course EESM5900V, it's only for reference & learning purposes (Please do not copy!)
