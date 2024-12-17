@@ -2,15 +2,20 @@
 
 ### Assignments
 **Assignment 1: MNIST**  
+Score: 100%  
 Different models will be implemented for classifying digits using MNIST dataset  
 
 **Assignment 2: Transformers & GNN**  
+Score: 80%  
 Theoretical questions on Attention & Transformers, Graph Neural Networks
 
 **Assignment 3: GAN Implementations**  
-DCGAN, CycleGAN implementations
+Score: 100%  
+DCGAN implementations
 
 ### Notes
+Adapted from [CS231n](https://cs231n.stanford.edu/)
+- Image Classifier
 - Backpropagation (BP)
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
